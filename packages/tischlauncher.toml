@@ -2,4 +2,4 @@
 name = "tischlauncher"
 version = "0.1.0"
 source = "https://github.com/cli/cli/releases/download/v2.47.0/gh_2.47.0_windows_amd64.zip"
-sha256 = "6fbe369796e9526e8574be99bda66236bbbe178bb098dd076b177e0c7041a9eb"
+sha256 = "889c048da1b54399bd2b473f5c0ecbc3c68b8847e76733042ce7e9d1ce06aa4c"
